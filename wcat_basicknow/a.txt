@@ -1,0 +1,1 @@
+i will overwrite data in a.txt if it exist  if file doesnt exist i will create new file
